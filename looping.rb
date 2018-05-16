@@ -1,5 +1,6 @@
 def looping
-	#your code here
+n++	#your code here
 end
 
 #call your method here
+looping
