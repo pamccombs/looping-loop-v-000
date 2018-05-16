@@ -1,7 +1,7 @@
 def looping
   n = 1
 loop do
-  puts n++
+  puts "Wingardium Leviosa"
   end
 end
 
