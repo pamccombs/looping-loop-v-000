@@ -2,7 +2,7 @@ def looping
   n = 1
 loop do
   puts n++
-  end #your code here
+  end 
 end
 
 #call your method here
